@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Player" Collapsed="true">
+    <Position X="6" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAAAAABAAAAAAAAAAQ=</HashCode>
+      <FileName>Assets\Script\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PokerCardManager" Collapsed="true">
+    <Position X="1.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAgkAASAAAAAABCAAAAAEAAAABCAAEAEEQ=</HashCode>
+      <FileName>Assets\Script\PokerCardManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PokerObject" Collapsed="true">
+    <Position X="1.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAgAAAACAAAAAAACAAAAAAAAAAAAAEAIAAAACAAAAA=</HashCode>
+      <FileName>Assets\Script\PokerObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>

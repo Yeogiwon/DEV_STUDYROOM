@@ -1,0 +1,223 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 384e4d00744457346b8980c7ca3fbcd7, type: 3}
+  m_Name: PokerCardDeck
+  m_EditorClassIdentifier: 
+  pokerCards:
+  - m_Card_Number: 1
+    e_CARDTYPE: 1
+    FrontImage: {fileID: -1761789836, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 2
+    e_CARDTYPE: 1
+    FrontImage: {fileID: 338217678, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 3
+    e_CARDTYPE: 1
+    FrontImage: {fileID: 1166841125, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 4
+    e_CARDTYPE: 1
+    FrontImage: {fileID: 1106300209, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 5
+    e_CARDTYPE: 1
+    FrontImage: {fileID: -472117208, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 6
+    e_CARDTYPE: 1
+    FrontImage: {fileID: 2127981656, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 7
+    e_CARDTYPE: 1
+    FrontImage: {fileID: -412949628, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 8
+    e_CARDTYPE: 1
+    FrontImage: {fileID: -398042127, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 9
+    e_CARDTYPE: 1
+    FrontImage: {fileID: -159139215, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 10
+    e_CARDTYPE: 1
+    FrontImage: {fileID: -1054343616, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 11
+    e_CARDTYPE: 1
+    FrontImage: {fileID: 1097205524, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 12
+    e_CARDTYPE: 1
+    FrontImage: {fileID: 1050913305, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 13
+    e_CARDTYPE: 1
+    FrontImage: {fileID: 1060008071, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 1
+    e_CARDTYPE: 0
+    FrontImage: {fileID: 117765444, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 2
+    e_CARDTYPE: 0
+    FrontImage: {fileID: 1902315934, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 3
+    e_CARDTYPE: 0
+    FrontImage: {fileID: -986049984, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 4
+    e_CARDTYPE: 0
+    FrontImage: {fileID: 896747739, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 5
+    e_CARDTYPE: 0
+    FrontImage: {fileID: -883846140, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 6
+    e_CARDTYPE: 0
+    FrontImage: {fileID: -322041809, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 7
+    e_CARDTYPE: 0
+    FrontImage: {fileID: 1524576168, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 8
+    e_CARDTYPE: 0
+    FrontImage: {fileID: -1603136068, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 9
+    e_CARDTYPE: 0
+    FrontImage: {fileID: -758063305, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 10
+    e_CARDTYPE: 0
+    FrontImage: {fileID: 929250026, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 11
+    e_CARDTYPE: 0
+    FrontImage: {fileID: 229960534, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 12
+    e_CARDTYPE: 0
+    FrontImage: {fileID: -514282649, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 13
+    e_CARDTYPE: 0
+    FrontImage: {fileID: -619143846, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 1
+    e_CARDTYPE: 2
+    FrontImage: {fileID: -1062236409, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 2
+    e_CARDTYPE: 2
+    FrontImage: {fileID: -1191184546, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 3
+    e_CARDTYPE: 2
+    FrontImage: {fileID: -2107349618, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 4
+    e_CARDTYPE: 2
+    FrontImage: {fileID: -1455478506, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 5
+    e_CARDTYPE: 2
+    FrontImage: {fileID: 2122077096, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 6
+    e_CARDTYPE: 2
+    FrontImage: {fileID: -1270907216, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 7
+    e_CARDTYPE: 2
+    FrontImage: {fileID: -1665247345, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 8
+    e_CARDTYPE: 2
+    FrontImage: {fileID: 106358449, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 9
+    e_CARDTYPE: 2
+    FrontImage: {fileID: 1176643876, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 10
+    e_CARDTYPE: 2
+    FrontImage: {fileID: -1111855560, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 11
+    e_CARDTYPE: 2
+    FrontImage: {fileID: -561004076, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 12
+    e_CARDTYPE: 2
+    FrontImage: {fileID: -157536805, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 13
+    e_CARDTYPE: 2
+    FrontImage: {fileID: -1863751594, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 1
+    e_CARDTYPE: 3
+    FrontImage: {fileID: 1574379112, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 2
+    e_CARDTYPE: 3
+    FrontImage: {fileID: -1913261748, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 3
+    e_CARDTYPE: 3
+    FrontImage: {fileID: 878006231, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 4
+    e_CARDTYPE: 3
+    FrontImage: {fileID: -1299467377, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 5
+    e_CARDTYPE: 3
+    FrontImage: {fileID: -1998659378, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 6
+    e_CARDTYPE: 3
+    FrontImage: {fileID: 1427493057, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 7
+    e_CARDTYPE: 3
+    FrontImage: {fileID: -1005609273, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 8
+    e_CARDTYPE: 3
+    FrontImage: {fileID: 1061818074, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 9
+    e_CARDTYPE: 3
+    FrontImage: {fileID: -1852534139, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 10
+    e_CARDTYPE: 3
+    FrontImage: {fileID: -1830930313, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 11
+    e_CARDTYPE: 3
+    FrontImage: {fileID: 959286464, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 12
+    e_CARDTYPE: 3
+    FrontImage: {fileID: 397786349, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+  - m_Card_Number: 13
+    e_CARDTYPE: 3
+    FrontImage: {fileID: 221617260, guid: bbb099f3e22e5a845b785394879759f4, type: 3}
+    BackImage: {fileID: -58854298, guid: bbb099f3e22e5a845b785394879759f4, type: 3}

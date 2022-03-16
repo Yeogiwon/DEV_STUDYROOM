@@ -1,0 +1,1322 @@
+fileFormatVersion: 2
+guid: bbb099f3e22e5a845b785394879759f4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PokerCards_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 820
+        width: 146
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d37926b4d6b8664ca6e6a42dfa3f07f
+      internalID: -1761789836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 820
+        width: 147
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddbab58f5b363740a09bec34cad0a9c
+      internalID: 338217678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_2
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 820
+        width: 147
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea700d46d3ba3ba48953b235e283db4f
+      internalID: 1166841125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_3
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 820
+        width: 147
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666ef1bfd73062b4995bca487684350c
+      internalID: 1106300209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_4
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 820
+        width: 147
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d76f8b0ce5f3445b72cdf330ec31b7
+      internalID: -472117208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_5
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 820
+        width: 146
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc8c1be274c7f549b2cd60ff118eb69
+      internalID: 2127981656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_6
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 820
+        width: 146
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684b3c7078b7556419962d4c0dd893cf
+      internalID: -412949628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_7
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 820
+        width: 146
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf9b0069363f5540bf1a0e415f84162
+      internalID: -398042127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_8
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 820
+        width: 147
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c7ac8fe05945641a0f5b7d81cc1520
+      internalID: -159139215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_9
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 820
+        width: 147
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccba5743a3875a4fa9dfe2dbc2b3f40
+      internalID: -1054343616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_10
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 820
+        width: 147
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3352f692bd6bb45ba5928f472c26b1
+      internalID: 1097205524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_11
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 820
+        width: 147
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16156ad3ee62dfd41aa001617d78fbc9
+      internalID: 1050913305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_12
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 820
+        width: 146
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598847bc6e417314c984dc2aca83093f
+      internalID: 1060008071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 615
+        width: 146
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a99758938165734fb145f6db871b4da
+      internalID: 117765444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_14
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 615
+        width: 147
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b047bd6050cdbd419bc5026931f36bc
+      internalID: 1902315934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_15
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 615
+        width: 147
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cae8b6b0b20464c8a2a078513e964f
+      internalID: -986049984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_16
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 615
+        width: 147
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260fe7f721b4a2f46b4681a8db6b32d4
+      internalID: 896747739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_17
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 615
+        width: 147
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b024f2c600b2c26429594d2691a8fea7
+      internalID: -883846140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_18
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 615
+        width: 146
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9501444b175a35b4baecf4a5caa4f216
+      internalID: -322041809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_19
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 615
+        width: 146
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7ffcbb3004241429b7e72053ac50e3
+      internalID: 1524576168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_20
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 615
+        width: 146
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd3d8c3f6d2db9489bed57b60b31c92
+      internalID: -1603136068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_21
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 615
+        width: 147
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1972a95fa87764c8f437468182383e
+      internalID: -758063305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_22
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 615
+        width: 147
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb57edf4cd6b41499c2f4fe4d342835
+      internalID: 929250026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_23
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 615
+        width: 147
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8d3c588c6b4ec47bad460c6c401e63
+      internalID: 229960534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_24
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 615
+        width: 147
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1c6ff3d6a516e439ddcb1a366b86bc
+      internalID: -514282649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_25
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 615
+        width: 146
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1f6095ff87e6745ae1a0659d584f7a
+      internalID: -619143846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 146
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690f48f059698094fa8b1a02724ebb2e
+      internalID: -1062236409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_27
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 410
+        width: 147
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fd32436c6aa2f4d88fb9006107dd69
+      internalID: -1191184546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_28
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 410
+        width: 147
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772b00af55ea8494d80c593614b59076
+      internalID: -2107349618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_29
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 410
+        width: 147
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0c6f5950eaff6419006816d905dcdf
+      internalID: -1455478506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_30
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 410
+        width: 147
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e873f8de112064aa9bf58208eb3583
+      internalID: 2122077096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_31
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 410
+        width: 146
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b779becc53d7f294ca5060ea66e11301
+      internalID: -1270907216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_32
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 410
+        width: 146
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c17d90864581ea448b620857c83aeb3
+      internalID: -1665247345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_33
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 410
+        width: 146
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc4e303ff942c147ad58115defd429a
+      internalID: 106358449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_34
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 410
+        width: 147
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e00c17234c4054d8b1e4cd820cd5c9
+      internalID: 1176643876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_35
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 410
+        width: 147
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc7a1f322e845c4a90ea9a7d80f99f0
+      internalID: -1111855560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_36
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 410
+        width: 147
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4dd322f1a4db5449598cc652f6b869
+      internalID: -561004076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_37
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 410
+        width: 147
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7fe638c58f8dd47938cd967aa789dd
+      internalID: -157536805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_38
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 410
+        width: 146
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb04bc1600502a44d83c2edc4852cecf
+      internalID: -1863751594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 146
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913b9b6d924d60549bf962cc96a3260a
+      internalID: 1574379112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_40
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 204
+        width: 147
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619b74fe52af4234daf74d4f6e5ebb53
+      internalID: -1913261748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_41
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 204
+        width: 147
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74a2f87f185c074fbc0471058df0e34
+      internalID: 878006231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_42
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 204
+        width: 147
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090889441ff4d9d468e96a2602e9331e
+      internalID: -1299467377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_43
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 204
+        width: 147
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba9b7f78484dd741af1fa55974af958
+      internalID: -1998659378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_44
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 204
+        width: 146
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c601404eb8fdd42a583de04ae67693
+      internalID: 1427493057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_45
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 204
+        width: 146
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a43790ead162c74089326ead40f3cf2
+      internalID: -1005609273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_46
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 204
+        width: 146
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e229fbf9b00547447a91bd2ccd703bc9
+      internalID: 1061818074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_47
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 204
+        width: 147
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92282f6f037be8646844eec9e3e2213c
+      internalID: -1852534139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_48
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 204
+        width: 147
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fa49f0411b60646b4f8baf5773076e
+      internalID: -1830930313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_49
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 204
+        width: 147
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480b5723ff0d7074daba3fbeab1f04db
+      internalID: 959286464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_50
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 204
+        width: 147
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53200e23d22af8d4a86522a0343d0f69
+      internalID: 397786349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_51
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 204
+        width: 146
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791c5693e61c9e245adcd59083e41efc
+      internalID: 221617260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 146
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1814525c65c0044bfd7d77521f3a84
+      internalID: -58854298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerCards_53
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 147
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388623f3600b6cd42972acd62e2b889a
+      internalID: -338471983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PokerCards_27: -1191184546
+      PokerCards_15: -986049984
+      PokerCards_38: -1863751594
+      PokerCards_39: 1574379112
+      PokerCards_43: -1998659378
+      PokerCards_47: -1852534139
+      PokerCards_32: -1665247345
+      PokerCards_20: -1603136068
+      PokerCards_42: -1299467377
+      PokerCards_53: -338471983
+      PokerCards_46: 1061818074
+      PokerCards_21: -758063305
+      PokerCards_17: -883846140
+      PokerCards_16: 896747739
+      PokerCards_37: -157536805
+      PokerCards_44: 1427493057
+      PokerCards_14: 1902315934
+      PokerCards_48: -1830930313
+      PokerCards_6: -412949628
+      PokerCards_9: -1054343616
+      PokerCards_24: -514282649
+      PokerCards_36: -561004076
+      PokerCards_29: -1455478506
+      PokerCards_13: 117765444
+      PokerCards_5: 2127981656
+      PokerCards_31: -1270907216
+      PokerCards_28: -2107349618
+      PokerCards_50: 397786349
+      PokerCards_45: -1005609273
+      PokerCards_23: 229960534
+      PokerCards_30: 2122077096
+      PokerCards_35: -1111855560
+      PokerCards_3: 1106300209
+      PokerCards_8: -159139215
+      PokerCards_52: -58854298
+      PokerCards_4: -472117208
+      PokerCards_11: 1050913305
+      PokerCards_25: -619143846
+      PokerCards_18: -322041809
+      PokerCards_19: 1524576168
+      PokerCards_26: -1062236409
+      PokerCards_40: -1913261748
+      PokerCards_49: 959286464
+      PokerCards_51: 221617260
+      PokerCards_22: 929250026
+      PokerCards_12: 1060008071
+      PokerCards_34: 1176643876
+      PokerCards_1: 338217678
+      PokerCards_10: 1097205524
+      PokerCards_7: -398042127
+      PokerCards_33: 106358449
+      PokerCards_0: -1761789836
+      PokerCards_2: 1166841125
+      PokerCards_41: 878006231
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
