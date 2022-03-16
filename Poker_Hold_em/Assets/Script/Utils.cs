@@ -22,7 +22,7 @@ public class PRS
         this.rot = gameObject.transform.rotation;
         this.scale = gameObject.transform.localScale;
     }
-
+    
 }
 
 public class Utils

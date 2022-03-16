@@ -4,7 +4,7 @@ using UnityEngine;
 
 
 [System.Serializable]
-public class PokerCard
+public class PokerCard // 포커카드 
 {
     public int m_Card_Number;
     public enum E_CARDTYPE { SPADE, HEART, DIAMOND, CLOVER, NONE };
@@ -14,7 +14,7 @@ public class PokerCard
 }
 
 [CreateAssetMenu(fileName = "PokerCardSO", menuName = "Scriptable Object/PokerCardSO")]
-public class PokerCardSO : ScriptableObject
+public class PokerCardSO : ScriptableObject //포커카드 SO
 {
     public PokerCard[] pokerCards;
 }

@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class Collector : MonoBehaviour
 {
-    [SerializeField] Player player;
     [SerializeField] int debt;
     [SerializeField] bool is_Paid_Back = false;
 
@@ -21,7 +20,7 @@ public class Collector : MonoBehaviour
 
     public bool isPaidBack()
     {
-        if(player.m_coin >= debt)
+        if(GameManager.Inst.m_coin >= debt)
         {
             is_Paid_Back = true;
             Debug.Log("상환 완료");

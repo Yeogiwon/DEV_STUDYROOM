@@ -4,11 +4,9 @@ using UnityEngine;
 
 public class GamblePlayer : MonoBehaviour
 {
-    Player player;
-
     [SerializeField] List<PokerCard> m_pokerCards;
 
-
+    public int m_coin { get; set; }
 
 
 }

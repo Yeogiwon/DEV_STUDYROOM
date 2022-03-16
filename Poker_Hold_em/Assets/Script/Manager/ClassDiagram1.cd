@@ -1,24 +1,101 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="Player" Collapsed="true">
-    <Position X="6" Y="2.75" Width="1.5" />
+    <Position X="9.25" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAAAAABAAAAAAAAAAQ=</HashCode>
       <FileName>Assets\Script\Player.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="PokerCardManager" Collapsed="true">
-    <Position X="1.75" Y="1.5" Width="1.5" />
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="PokerCardManager.E_PEDIGREE" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Script\Manager\PokerCardManager.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
     <TypeIdentifier>
-      <HashCode>AAAAAAAAACAgkAASAAAAAABCAAAAAEAAAABCAAEAEEQ=</HashCode>
-      <FileName>Assets\Script\PokerCardManager.cs</FileName>
+      <HashCode>AAAAAAAAADAgkAASCAQAAABCAAAAAEIAAAFKAAEAEEQ=</HashCode>
+      <FileName>Assets\Script\Manager\PokerCardManager.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="PokerObject" Collapsed="true">
-    <Position X="1.75" Y="2.75" Width="1.5" />
+    <Position X="0.5" Y="2.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>CAAgAAAACAAAAAAACAAAAAAAAAAAAAEAIAAAACAAAAA=</HashCode>
       <FileName>Assets\Script\PokerObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameManager" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAACAAAAAAAAAAAAAAAAAAAAAAAAAGAAAIgEA=</HashCode>
+      <FileName>Assets\Script\Manager\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TurnManager" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EQAAAAAEAAAQAAAAAAAAAABEIACAAAAAAAACAAAAAEA=</HashCode>
+      <FileName>Assets\Script\Manager\TurnManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamblePlayer" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\GamblePlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PokerCards" Collapsed="true">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAECAAAGgAAAAgAAAAAAAAAAAAAIAAAAADAAAAABAA=</HashCode>
+      <FileName>Assets\Script\PokerCards.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PokerCard" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAgAAAAAAAAAAAAAAACAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Assets\Script\PokerCardSO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PokerCardSO" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Assets\Script\PokerCardSO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SceneChanger2" Collapsed="true">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\SceneChanger2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PRS" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Utils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Utils" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAQA=</HashCode>
+      <FileName>Assets\Script\Utils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClearSky.SimplePlayerController1" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAgAAACAEIAAEAAAAAAACBMAAAAAAAQAgAAAAAAI=</HashCode>
+      <FileName>Assets\Script\SimplePlayerController1.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="맑은 고딕" Size="9" />

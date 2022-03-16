@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PokerObject : MonoBehaviour
+public class PokerObject : MonoBehaviour // 포커카드 + 오브젝트화
 {
     [SerializeField] SpriteRenderer cardsprite;
 
@@ -15,7 +15,6 @@ public class PokerObject : MonoBehaviour
         this.pokerCard = Card;
         this.cardsprite.sprite = Card.BackImage;
         this.isMine = ismine;
-
     }
 
     public void OpenCard()

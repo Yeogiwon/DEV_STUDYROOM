@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-public class PokerCards : MonoBehaviour
+public class PokerCards : MonoBehaviour // 포커카드의 리스트화
 {
     List<PokerObject> pokerObjects;
 

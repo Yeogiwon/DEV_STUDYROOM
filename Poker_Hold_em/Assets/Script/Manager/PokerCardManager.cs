@@ -22,8 +22,12 @@ public class PokerCardManager : MonoBehaviour
 
     private void Start()
     {
+        init();
+    }
+
+    public void init()
+    {
         SetupItemBuffer();
-        //CreateAllCard();
     }
 
     void SetupItemBuffer() // ¹öÆÛ(µ¦) ¼¼ÆÃ

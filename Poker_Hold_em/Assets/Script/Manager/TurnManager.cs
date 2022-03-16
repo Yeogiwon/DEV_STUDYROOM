@@ -188,7 +188,6 @@ public class TurnManager : MonoBehaviour
 
 
     public IEnumerator CountDelay()
-
     {
         Time.timeScale = 0.5f;
         yield return new WaitForSecondsRealtime(2.0f);
