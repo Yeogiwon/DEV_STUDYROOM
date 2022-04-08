@@ -9,6 +9,7 @@ public class Collector : MonoBehaviour
 
     private void OnMouseDown()
     {
+        UIManager.instance.SetONOFF();
         isPaidBack();
     }
 
@@ -20,7 +21,7 @@ public class Collector : MonoBehaviour
 
     public bool isPaidBack()
     {
-        if(GameManager.Inst.m_coin >= debt)
+        if(Player.Inst.m_coin >= debt)
         {
             is_Paid_Back = true;
             Debug.Log("상환 완료");

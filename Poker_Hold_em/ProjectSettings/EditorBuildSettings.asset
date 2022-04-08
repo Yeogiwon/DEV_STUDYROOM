@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GambleScene.unity
     guid: c016c8d7095da1f4c942a8a5e45434f4
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: 8815bef840c796f4f9b50dfa58599b54
   m_configObjects: {}

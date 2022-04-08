@@ -61,6 +61,7 @@ public class TurnManager : MonoBehaviour
 
     public void UpdateStatus()
     {
+        //StartCoroutine(GameManager.Inst.Delay());
         switch (m_e_TURNSTATUS)
         {
             case E_TURNSTATUS.SPREAD_CARD:
@@ -68,7 +69,6 @@ public class TurnManager : MonoBehaviour
                 {
                     PokerCardManager.Inst.CreateAllCard();
                 }
-                StartCoroutine(CountDelay());
                 TurnManager.Inst.SetSTATUS(1);
                 break;
             case E_TURNSTATUS.OPEN_CARD:
@@ -79,7 +79,6 @@ public class TurnManager : MonoBehaviour
                         PokerCardManager.Inst.neutralCards[i].OpenCard();
                     }
                 }
-                
                 else if (m_e_TURNORDER == E_TURNORDER.TURN)
                 {
                     PokerCardManager.Inst.neutralCards[3].OpenCard();
@@ -88,7 +87,6 @@ public class TurnManager : MonoBehaviour
                 {
                     PokerCardManager.Inst.neutralCards[4].OpenCard();
                 }
-                StartCoroutine(CountDelay());
                 TurnManager.Inst.SetSTATUS(2);
                 break;
             case E_TURNSTATUS.BETTING:
@@ -108,11 +106,9 @@ public class TurnManager : MonoBehaviour
                 {
                     Debug.Log(m_e_TURNORDER);
                 }
-                StartCoroutine(CountDelay());
                 TurnManager.Inst.SetSTATUS(3);
                 break;
             case E_TURNSTATUS.SETCHIP:
-                StartCoroutine(CountDelay());
                 TurnManager.Inst.SetSTATUS(4);
 
                 break;
@@ -121,13 +117,12 @@ public class TurnManager : MonoBehaviour
                 {
 
                 }
-                StartCoroutine(CountDelay());
                 TurnManager.Inst.SetSTATUS(5);
                 break;
             case E_TURNSTATUS.RETURN_CARD:
                 if (m_e_TURNORDER == E_TURNORDER.RIVER)
                 {
-                    for(int i = 0; i<4; i++)
+                    for (int i = 0; i < 4; i++) 
                     {
                         PokerCardManager.Inst.PedigreeCalculater(i);
                     }
@@ -135,7 +130,6 @@ public class TurnManager : MonoBehaviour
                 }
                 int order = (int)m_e_TURNORDER;
                 order++;
-                StartCoroutine(CountDelay());
                 TurnManager.Inst.SetOrder(order);
                 TurnManager.Inst.SetSTATUS(0);
                 if(order == 3)
